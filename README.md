@@ -1,7 +1,7 @@
-# README
+# VSCODE Dark theme
 
-## This is a colorful drk theme for your eyes.
+## This is a dark vscode theme with some colors added to it so that it doesn't look too boring.
 
-I will be upating this with more colors that suits your eyes.
+**More updates comig soon.**
 
-**Enjoy!**
+**_Enjoy!_**
