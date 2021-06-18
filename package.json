@@ -3,8 +3,16 @@
   "displayName": "colorfulldark",
   "description": "",
   "version": "0.0.1",
+  "publisher": "saurabh-kumar997",
+  "author": {
+    "name": "Saurabh Kumar"
+  },
   "engines": {
     "vscode": "^1.57.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurabh-kumar997/colorfulldark-vscode-theme.git"
   },
   "categories": [
     "Themes"
