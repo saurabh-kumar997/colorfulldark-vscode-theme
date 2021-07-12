@@ -2,20 +2,24 @@
   "name": "colorfulldark",
   "type": "dark",
   "colors": {
-    "editor.background": "#131618",
+    "editor.background": "#000000",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#8D3DAF",
     "sideBarTitle.foreground": "#CAD5E2",
     "activityBar.background": "#000000",
     "activityBar.foreground": "#f1c037",
-    "editor.lineHighlightBackground": "#000000",
+    "editor.lineHighlightBackground": "#333333",
     "terminal.background": "#000000",
     "terminal.foreground": "#3DBE29",
     "tab.activeBorderTop": "#3DBE29",
     "statusBar.background": "#242B2E",
     "statusBar.foreground": "#f1c037",
     "titleBar.activeBackground": "#0D0D0D",
-    "sideBar.background": "#0D0D0D"
+    "sideBar.background": "#000000",
+    "statusBar.debuggingBackground": "#9424F0",
+    "statusBarItem.remoteBackground": "#9F2BC1",
+    "statusBarItem.remoteForeground": "#F7CD2E",
+    "minimap.background": "#000"
   },
   "tokenColors": [
     {
@@ -71,7 +75,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#CAD5E2"
+        "foreground": "#5997df"
       }
     },
     {
@@ -82,7 +86,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#B4161B"
       }
     },
     {
@@ -140,7 +144,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#dbb52c"
+        "foreground": "#E07C24"
       }
     },
     {
