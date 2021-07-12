@@ -25,5 +25,9 @@
         "path": "./themes/colorfulldark-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "ivsce": "npm i -g vcse",
+    "packagei": "vsce package && code --install-extension colorfulldark-0.0.1.vsix"
   }
 }
